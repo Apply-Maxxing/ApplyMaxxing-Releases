@@ -1,10 +1,10 @@
 {
-  "version": "0.12.3",
+  "version": "0.12.4",
   "releaseDate": "2026-06-12",
   "changelog": "See release notes",
   "downloads": {
-    "mac": "https://github.com/Apply-Maxxing/ApplyMaxxing-Releases/releases/download/v0.12.3/ApplyMaxxing-0.12.3-arm64.dmg",
-    "windows": "https://github.com/Apply-Maxxing/ApplyMaxxing-Releases/releases/download/v0.12.3/ApplyMaxxing-Setup-0.12.3.exe",
-    "linux": "https://github.com/Apply-Maxxing/ApplyMaxxing-Releases/releases/download/v0.12.3/ApplyMaxxing-0.12.3.AppImage"
+    "mac": "https://github.com/Apply-Maxxing/ApplyMaxxing-Releases/releases/download/v0.12.4/ApplyMaxxing-0.12.4-arm64.dmg",
+    "windows": "https://github.com/Apply-Maxxing/ApplyMaxxing-Releases/releases/download/v0.12.4/ApplyMaxxing-Setup-0.12.4.exe",
+    "linux": "https://github.com/Apply-Maxxing/ApplyMaxxing-Releases/releases/download/v0.12.4/ApplyMaxxing-0.12.4.AppImage"
   }
 }
